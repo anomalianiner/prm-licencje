@@ -1,0 +1,4 @@
+# PRM PAX OPERATIONS - aktywne kody testowe (TEST)
+# Jedno ID w linii. Usuń linię (albo cały plik), żeby wyłączyć kod.
+# ID kodu: python tools/license_tool.py code-id <KOD>
+a1cc122667571a78   # kod testowy dla testera, wydany 2026-10-17

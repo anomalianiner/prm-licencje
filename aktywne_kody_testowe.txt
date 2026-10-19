@@ -2,3 +2,5 @@
 # Jedno ID w linii. Usuń linię (albo cały plik), żeby wyłączyć kod.
 # ID kodu: python tools/license_tool.py code-id <KOD>
 a1cc122667571a78   # kod testowy dla testera, wydany 2026-10-17
+727035f3a106ab3d   # TEST Marcel (paczka PRM_TEST_MARCEL), 2026-10-19
+d790e03c2fe3c328   # TEST kolega (paczka PRM_TEST_KOLEGA), 2026-10-19
